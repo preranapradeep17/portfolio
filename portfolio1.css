@@ -36,7 +36,7 @@
         rgba(255, 255, 255, 0.2),
         rgba(255, 255, 255, 0.3)
       ),
-      url(background.jpg) center no-repeat;
+      url(profile.jpg) center no-repeat;
     background-size: cover;
     flex-direction: column;
   }
